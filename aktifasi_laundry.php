@@ -1,5 +1,5 @@
 <?php
-	include "koneksi.php";
+	include "koneksi.php";//fafap
 	
 	$id		= $_GET['id'];
 	$aktif	= $_GET['aktif'];
